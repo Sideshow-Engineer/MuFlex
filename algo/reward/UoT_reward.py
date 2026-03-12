@@ -3,7 +3,7 @@
 HVAC_WEIGHT = 0.5
 TEMP_WEIGHT = 0.1
 MAX_POWER_WEIGHT = 2.0
-MAX_TOTAL_HVAC_POWER = 9000.0
+MAX_TOTAL_HVAC_POWER = 4500.0
 
 def green_print(*args, **kwargs):
     """Print helper that highlights debug lines in green."""
